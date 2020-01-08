@@ -5,8 +5,13 @@
     title="result"  />
 </p>
 
+Lidar measurements are red circles, radar measurements are blue circles with an arrow pointing in the direction of the observed angle, and estimation markers are green triangles.
+
+
 
 For Setup & Dependencies please refer to official [udacity repository](https://github.com/glaumarkus/CarND-Extended-Kalman-Filter-Project).
+
+---
 
 The goal of this project:
 * compute 2D position and velocity of moving objects with Radar / Lidar Data
